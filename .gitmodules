@@ -1,88 +1,88 @@
 [submodule "vendor/blip-buf"]
 	path = vendor/blip-buf
-	url = https://github.com/nesbox/blip-buf.git
+	url = https://gitclone.com/github.com/nesbox/blip-buf.git
 	shallow = true
 [submodule "vendor/dirent"]
 	path = vendor/dirent
-	url = https://github.com/tronkko/dirent.git
+	url = https://gitclone.com/github.com/tronkko/dirent.git
 	shallow = true
 [submodule "vendor/giflib"]
 	path = vendor/giflib
-	url = https://github.com/nesbox/giflib.git
+	url = https://gitclone.com/github.com/nesbox/giflib.git
 	shallow = true
 [submodule "vendor/lpeg"]
 	path = vendor/lpeg
-	url = https://github.com/nesbox/lpeg.git
+	url = https://gitclone.com/github.com/nesbox/lpeg.git
 	shallow = true
 [submodule "vendor/lua"]
 	path = vendor/lua
-	url = https://github.com/lua/lua.git
+	url = https://gitclone.com/github.com/lua/lua.git
 	shallow = true
 [submodule "vendor/sdl-gpu"]
 	path = vendor/sdl-gpu
-	url = https://github.com/grimfang4/sdl-gpu.git
+	url = https://gitclone.com/github.com/grimfang4/sdl-gpu.git
 	shallow = true
 [submodule "vendor/sokol"]
 	path = vendor/sokol
-	url = https://github.com/floooh/sokol.git
+	url = https://gitclone.com/github.com/floooh/sokol.git
 	shallow = true
 [submodule "vendor/squirrel"]
 	path = vendor/squirrel
-	url = https://github.com/albertodemichelis/squirrel.git
+	url = https://gitclone.com/github.com/albertodemichelis/squirrel.git
 	shallow = true
 [submodule "vendor/wren"]
 	path = vendor/wren
-	url = https://github.com/wren-lang/wren.git
+	url = https://gitclone.com/github.com/wren-lang/wren.git
 	shallow = true
 [submodule "vendor/zlib"]
 	path = vendor/zlib
-	url = https://github.com/madler/zlib.git
+	url = https://gitclone.com/github.com/madler/zlib.git
 	shallow = true
 [submodule "vendor/zip"]
 	path = vendor/zip
-	url = https://github.com/kuba--/zip.git
+	url = https://gitclone.com/github.com/kuba--/zip.git
 	shallow = true
 [submodule "vendor/moonscript"]
 	path = vendor/moonscript
-	url = https://github.com/nesbox/moonscript.git
+	url = https://gitclone.com/github.com/nesbox/moonscript.git
 	shallow = true
 [submodule "vendor/argparse"]
 	path = vendor/argparse
-	url = https://github.com/cofyc/argparse.git
+	url = https://gitclone.com/github.com/cofyc/argparse.git
 	shallow = true
 [submodule "vendor/libpng"]
 	path = vendor/libpng
-	url = https://github.com/glennrp/libpng.git
+	url = https://gitclone.com/github.com/glennrp/libpng.git
 	shallow = true
 [submodule "vendor/sdl2"]
 	path = vendor/sdl2
-	url = https://github.com/libsdl-org/SDL.git
+	url = https://gitclone.com/github.com/libsdl-org/SDL.git
 	shallow = true
 [submodule "mruby"]
 	path = vendor/mruby
-	url = https://github.com/mruby/mruby.git
+	url = https://gitclone.com/github.com/mruby/mruby.git
 	shallow = true
 [submodule "vendor/wasm3"]
 	path = vendor/wasm3
-	url = https://github.com/wasm3/wasm3.git
+	url = https://gitclone.com/github.com/wasm3/wasm3.git
 	shallow = true
 [submodule "vendor/janet"]
 	path = vendor/janet
-	url = https://github.com/janet-lang/janet.git
+	url = https://gitclone.com/github.com/janet-lang/janet.git
 	shallow = true
 [submodule "vendor/pocketpy"]
 	path = vendor/pocketpy
-	url = https://github.com/blueloveTH/pocketpy
+	url = https://gitclone.com/github.com/blueloveTH/pocketpy
 	shallow = true
 [submodule "vendor/quickjs"]
 	path = vendor/quickjs
-	url = https://github.com/nesbox/quickjs.git
+	url = https://gitclone.com/github.com/nesbox/quickjs.git
 	shallow = true
 [submodule "vendor/naett"]
 	path = vendor/naett
-	url = https://github.com/erkkah/naett.git
+	url = https://gitclone.com/github.com/erkkah/naett.git
 	shallow = true
 [submodule "vendor/msf_gif"]
 	path = vendor/msf_gif
-	url = https://github.com/notnullnotvoid/msf_gif.git
+	url = https://gitclone.com/github.com/notnullnotvoid/msf_gif.git
 	shallow = true
